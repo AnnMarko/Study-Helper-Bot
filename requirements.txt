@@ -1,0 +1,5 @@
+SQLAlchemy
+aiogram
+requests
+python-dotenv
+g4f
